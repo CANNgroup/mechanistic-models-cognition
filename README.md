@@ -4,7 +4,7 @@
 This repository contains pedagogical code notebooks accompanying the review article:
 
 **Mechanistic computational models of cognition across scales and species**  
-Sean Froudist-Walsh, Tsvetoslav G. Ivanov, Teo Fantacci, Loic Magrou, Harper Cho, Eleonora Russo, Alexandra N. Busch, Lyle E. Muller, Hongyu John Meng, John D. Murray, and Xiao-Jing Wang.
+Sean Froudist-Walsh, Tsvetoslav G. Ivanov*, Teo Fantacci*, Loic Magrou*, Harper Cho, Eleonora Russo, Alexandra N. Busch, Lyle E. Muller, Hongyu John Meng, John D. Murray, and Xiao-Jing Wang. (* these authors contributed equally)
 
 The notebooks are intended to help readers interactively explore the computational modelling ideas discussed in the review. They are designed for teaching, self-study, and conceptual understanding rather than as exact reproductions of all simulations in the original research articles.
 
@@ -62,7 +62,7 @@ jupyter lab
 
 If you use these notebooks, please cite the accompanying review article:
 
-> Froudist-Walsh, S., Ivanov, T. G., Fantacci T., Magrou, L., Cho, H., Russo. E., Busch, A. N., Muller, L. E., Meng, H. J., Murray, J. D., & Wang, X.-J.
+> Froudist-Walsh, S., Ivanov*, T. G., Fantacci* T., Magrou*, L., Cho, H., Russo. E., Busch, A. N., Muller, L. E., Meng, H. J., Murray, J. D., & Wang, X.-J.
 > *Mechanistic computational models of cognition across scales and species.*
 > [Journal / DOI to be added]
 
